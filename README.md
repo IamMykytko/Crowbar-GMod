@@ -1,7 +1,6 @@
 # Crowbar Garry's Mod Tool
-The "Crowbar" tool for Garry's Mod and other Source engine games is
 
-==a vital utility for **modding and custom content creation**==. You would need it primarily for the following purposes: 
+The "Crowbar" tool for Garry's Mod and other Source engine games is a vital utility for **modding and custom content creation**. You would need it primarily for the following purposes: 
 
 - **Decompiling Models:** It converts the game's binary model files (`.mdl`) into editable text and mesh files (like `.smd` and `.qc`) that can be used with 3D modeling software. This allows you to view the structure of existing models or use them as a base for your own creations.
 - **Compiling Models:** It provides a user-friendly interface for the game's official compiler (`studiomdl.exe`), which is necessary to turn your custom model files and instructions (`.qc` files) back into the `.mdl` format that Garry's Mod can read and use in-game.
